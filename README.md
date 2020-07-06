@@ -4,9 +4,11 @@
 # 1.Describe the purpose, or the reason, you did this assignment.
 
 1.1 The purpose of the assignment is to analyze data from two datasources and make it more readable and transparent.
+
 1.2 How did you analyze the data to create the technical deliverables?
 To create Summary Dataframe I used groupby() function on the city type.
 I"ve calculated "Average Fare per Ride" and	"Average Fare per Driver".
+
 1.3 What can be said about the summary DataFrame and multiple-line graph with respect to the ride-sharing data among the different city types? Include images of the summary DataFrame table and the multiple-line graph in these results.
 
 A short summary of the results. As shown in the Chart1, most of the rides (1,625 USD, or 68.4%) and revenue (39,854 USD or 62.7%) are generated in the "Urban" City type, and the least in Rural - 125 or 5.3% of total rides and 4,327 USD. or 6.8% of revenue.
