@@ -23,7 +23,7 @@ Another challenge was to build a Chart. I tried to google and found some example
 
 3. The third paragraph should include the following:
 
-3. 1. I would recommend to analyze the contribution margin from all three categories and by drivers.
+3.1 I would recommend to analyze the contribution margin from all three categories and by drivers.
 Another suggestion I have to group drivers by categories: purpose of the trip (business, leisure), distance of the trip, etc.
 I would create a dataset with contribution margin by driver (customer) and by categories of drivers (customers).
-It would be useful to cover the entire year, so I recommend to generate the report with the data for the twelve month and compare with the previous year.
+3.2 It would be useful to cover the entire year, so I recommend to generate the report with the data for the twelve month and compare with the previous year.
