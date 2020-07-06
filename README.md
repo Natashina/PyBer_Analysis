@@ -17,9 +17,13 @@ As illustrated in the following Chart2, in terms of Revenue contribution, "Urban
 
 2. What challenges or difficulties did you encounter? If none, then briefly explain what challenges or difficulties may be encountered and how to avoid them using technical analysis.
 In the original dataframe the "Date" column did not have the right data type (object, instead of datetime) and it was a challege. The solution was to convert it into right data type.
-I read the description of errors and try to find solution 
-The third paragraph should include the following:
+I read the description of errors and try to find solution, reffering to the following sources:
+https://pandas.pydata.org/, https://matplotlib.org/. 
+Another challenge was to build a Chart. I tried to google and found some examples. After I set an x parameter as index of the dataframe, the solution was found.
 
-Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
-Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
-What technical steps would you take to perform the additional analyses?
+3. The third paragraph should include the following:
+
+3. 1. I would recommend to analyze the contribution margin from all three categories and by drivers.
+Another suggestion I have to group drivers by categories: purpose of the trip (business, leisure), distance of the trip, etc.
+I would create a dataset with contribution margin by driver (customer) and by categories of drivers (customers).
+It would be useful to cover the entire year, so I recommend to generate the report with the data for the twelve month and compare with the previous year.
