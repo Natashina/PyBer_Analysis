@@ -8,8 +8,8 @@ To create Summary Dataframe I used groupby() function on the city type.
 I"ve calculated "Average Fare per Ride" and	"Average Fare per Driver".
 1.3 What can be said about the summary DataFrame and multiple-line graph with respect to the ride-sharing data among the different city types? Include images of the summary DataFrame table and the multiple-line graph in these results.
 
-A short summary of the results.
-
+A short summary of the results. Most of the rides (68.4%) and revenue (62.7%) are generated in the "Urban" City type. 
+![Chart 1](Capture_Summary.PNG)
 
 The second paragraph should include the following:
 
