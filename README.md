@@ -11,10 +11,11 @@ I"ve calculated "Average Fare per Ride" and	"Average Fare per Driver".
 A short summary of the results. Most of the rides (68.4%) and revenue (62.7%) are generated in the "Urban" City type. 
 ![Chart 1](Capture_Summary.PNG)
 
-The second paragraph should include the following:
+![Chart 2](Fig8.PNG)
 
-What challenges or difficulties did you encounter? If none, then briefly explain what challenges or difficulties may be encountered and how to avoid them using technical analysis.
-Explain how you overcame any challenges or difficulties, and include what technical analysis you use to overcome the challenges or difficulties.
+2. What challenges or difficulties did you encounter? If none, then briefly explain what challenges or difficulties may be encountered and how to avoid them using technical analysis.
+In the original dataframe the "Date" column did not have the right data type (object, instead of datetime) and it was a challege. The solution was to convert it into right data type.
+I read the description of errors and try to find solution 
 The third paragraph should include the following:
 
 Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
